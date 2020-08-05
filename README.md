@@ -1,2 +1,5 @@
 # hello-world
-just anothor repository
+
+Hi humans!
+
+Nothing but can be anything.
